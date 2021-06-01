@@ -54,18 +54,18 @@
     width="50"
     height="50"
   />
-</p>
-<p>
-  <img
+    <img
     src="https://img.icons8.com/color/48/000000/redux.png"
     width="50"
     height="50"
   />
-  <img
+    <img
     src="https://img.icons8.com/color/48/000000/nodejs.png"
     width="50"
     height="50"
   />
+</p>
+<p>
   <img
     src="https://img.icons8.com/dusk/64/000000/webpack.png"
     width="50"
@@ -88,6 +88,10 @@
   />
   <img src="https://img.icons8.com/color/48/000000/npm.png" width="50"
   height="50"/>
+    <img src="https://img.icons8.com/color/48/000000/wordpress.png"
+    width="50"
+    height="50"
+  />
 </p>
 
 <p align="left">
