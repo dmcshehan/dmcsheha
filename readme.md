@@ -8,26 +8,12 @@
 
 #### Connect with me
 
-<p>
-  <a href="https://www.linkedin.com/in/dmcshehan/" target="_blank"
-    ><img
-      src="https://img.icons8.com/fluent/48/000000/linkedin.png"
-      width="35"
-      height="35"
-  /></a>
-  <a href="https://www.instagram.com/dmcshehan/" target="_blank"
-    ><img
-      src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
-      width="35"
-      height="35"
-  /></a>
-  <a href="https://www.twitter.com/dmcshehan/" target="_blank"
-    ><img
-      src="https://img.icons8.com/fluent/48/000000/twitter.png"
-      width="35"
-      height="35"
-  /></a>
-</p>
+[![](https://img.shields.io/badge/-@dmcshehan-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/dmcshehan)
+[![](https://img.shields.io/badge/-@dmcshehan-%23181717?style=flat-square&logo=github)](https://github.com/dmcshehan)
+[![](https://img.shields.io/badge/-@dmcshehan-%23ef8236?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/9710891/dmcshehan)
+[![](https://img.shields.io/badge/-Shehan%20Disanayake-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmcshehan/)](https://www.linkedin.com/in/dmcshehan/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=dmcshehan.com&url=https://www.dmcshehan.com)](https://dmcshehan.com/)
+
 
 #### Languages & Tools
 <p>
@@ -106,3 +92,5 @@
     alt="dmcshehan"
   />
 </p>
+
+![shehan's github stats](https://github-readme-stats.vercel.app/api?username=dmcshehan&show_icons=true&theme=prussian)
