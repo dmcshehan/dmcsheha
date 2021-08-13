@@ -10,9 +10,6 @@ Here are some ideas to get you started:
 
 #### Connect with me
 
-[![](https://img.shields.io/badge/-@dmcshehan-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/dmcshehan)
-[![](https://img.shields.io/badge/-@dmcshehan-%23181717?style=flat-square&logo=github)](https://github.com/dmcshehan)
-[![](https://img.shields.io/badge/-@dmcshehan-%23ef8236?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/9710891/dmcshehan)
 [![](https://img.shields.io/badge/-Shehan%20Disanayake-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmcshehan/)](https://www.linkedin.com/in/dmcshehan/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=dmcshehan.com&url=https://www.dmcshehan.com)](https://dmcshehan.com/)
 
