@@ -5,8 +5,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 A Front-end developer 
 - 💻 I code, write and build little things with React JS. 
-- 🌍 Obsessed with travel destinations in Europe 
-- 📍 I always browse places on Google Maps
+- 🌍 Obsessed with travel destinations in Europe and always browse places on Google Maps
 
 #### Connect with me
 
