@@ -1,9 +1,11 @@
 
-### Hello there 👋, I'm Shehan 
+### Hi there, I'm Shehan 👋
 
-- 👨‍💻 A 26 year old Front-end developer 
+Here are some ideas to get you started:
+
+- 👨‍💻 A Front-end developer 
 - 💻 I code, write and build little things with React JS. 
-- 🌍 Obsessed with travel destinations of Europe 
+- 🌍 Obsessed with travel destinations in Europe 
 - 📍 I always browse places on Google Maps
 
 #### Connect with me
@@ -12,6 +14,8 @@
 [![](https://img.shields.io/badge/-@dmcshehan-%23181717?style=flat-square&logo=github)](https://github.com/dmcshehan)
 [![](https://img.shields.io/badge/-@dmcshehan-%23ef8236?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/9710891/dmcshehan)
 [![](https://img.shields.io/badge/-Shehan%20Disanayake-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmcshehan/)](https://www.linkedin.com/in/dmcshehan/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=dmcshehan.com&url=https://www.dmcshehan.com)](https://dmcshehan.com/)
+
 
 
 
@@ -93,4 +97,4 @@
   />
 </p>
 
-![shehan's github stats](https://github-readme-stats.vercel.app/api?username=dmcshehan&show_icons=true&theme=prussian)
+
