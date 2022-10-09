@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 👨‍💻 A Front-end developer 
-- 💻 I code, write and build little things with React JS. 
+- 💻 Specializing in UI, CSS and accessibility. JavaScript enthusiast.
 - 🌍 Obsessed with travel destinations in Europe and always browse places on Google Maps
 
 #### Connect with me
