@@ -7,7 +7,7 @@
 In my free time, I enjoy family & friends, live music and exploring new places :)
 
 
-<a href="www.linkedin.com/in/dmcshehan" target="_blank">
+<a href="https://www.linkedin.com/in/dmcshehan" target="_blank">
     <img src="https://img.shields.io/badge/Connect With me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:dmcshehan@outlook.com">
