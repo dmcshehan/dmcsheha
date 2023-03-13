@@ -7,12 +7,18 @@
 - 💼 any freelance work? do reach, [email](mailto:dmcshehan@outlook.com) :)
 - 💬 ask me about anything, i am happy to help;
 
+
+
+ **Languages**
+
+<img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5 Badge"/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+
+**Frameworks & Libraries**
+
+<img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js Badge"/> <img src="https://img.shields.io/badge/redux.js-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux.js Badge"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/> <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Graphql Badge"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP Badge"/> <img src="https://img.shields.io/badge/socket.io-61DAFB?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io Badge"/>
+
 **Github Stats**
 
 <img src="https://github-readme-stats.vercel.app/api?username=dmcshehan&show_icons=true" alt="dmcshehan" />
-
-#### Languages
-
-<img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt=""/> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt=""/>
 
 
