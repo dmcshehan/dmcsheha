@@ -4,11 +4,6 @@
 
 <p>I'm a fast learner and always up for trying out new technologies. I've got a good balance between being a perfectionist and being practical, which helps me get things done efficiently. I believe in working together as a team, following agile development methods, and writing clean code. I'm never satisfied with the status quo and I'm always looking for ways to improve. And if that means thinking outside the box, I'm all for it!</p>
 
-- 💼 any freelance work? do reach, [email](mailto:dmcshehan@outlook.com) :)
-- 💬 ask me about anything, i am happy to help;
-
-
-
  **Languages**
 
 <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5 Badge"/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
@@ -26,7 +21,17 @@
 
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite Badge"/> <img src="https://img.shields.io/badge/mongo db-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
 
+**CMS**
 
+<img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress Badge"/> <img src="https://img.shields.io/badge/prismic-5163BA?style=for-the-badge&logo=prismic&logoColor=white" alt="Prismic Badge"/>
+
+**Tools**
+
+<img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack Badge"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm Badge"/> <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=webpack&logoColor=white" alt="Yarn Badge"/>
+
+**CI/CD**
+
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
 
 
 **Github Stats**
