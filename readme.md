@@ -22,6 +22,9 @@
 <img src="https://img.shields.io/badge/CSS Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white" alt="CSS Modules Badge"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge"/> <img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI Badge"/> <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled Components Badge"/>
 <img src="https://img.shields.io/badge/chakra ui-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI Badge"/> <img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design Badge"/>
 
+**Databases**
+
+<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite Badge"/> <img src="https://img.shields.io/badge/mongo db-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
 
 
 
