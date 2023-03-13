@@ -17,6 +17,15 @@
 
 <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js Badge"/> <img src="https://img.shields.io/badge/redux.js-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux.js Badge"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/> <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Graphql Badge"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP Badge"/> <img src="https://img.shields.io/badge/socket.io-61DAFB?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io Badge"/>
 
+**Component Libraries**
+
+<img src="https://img.shields.io/badge/CSS Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white" alt="CSS Modules Badge"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge"/> <img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI Badge"/> <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled Components Badge"/>
+<img src="https://img.shields.io/badge/chakra ui-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI Badge"/> <img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design Badge"/>
+
+
+
+
+
 **Github Stats**
 
 <img src="https://github-readme-stats.vercel.app/api?username=dmcshehan&show_icons=true" alt="dmcshehan" />
