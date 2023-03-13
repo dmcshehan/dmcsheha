@@ -42,7 +42,7 @@ In my free time, I enjoy family & friends, live music and exploring new places :
 
 **Tools**
 
-<img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack Badge"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm Badge"/> <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=webpack&logoColor=white" alt="Yarn Badge"/>
+<img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack Badge"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm Badge"/> <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=webpack&logoColor=white" alt="Yarn Badge"/> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 
 **CI/CD**
 
