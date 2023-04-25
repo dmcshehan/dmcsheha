@@ -1,10 +1,8 @@
 ## Hey there! 👋 I'm Shehan (he/him)
 
-<p>I'm a front-end web engineer based in the UAE 🇦🇪. I absolutely love what I do because I get to take my ideas and bring them to life with beautiful interfaces. I'm a stickler for user experience, making sure the architecture is sound, and ensuring my code is top-notch.</p>
+I'm a front-end web engineer based in Dubai, UAE 🇦🇪. I love creating beautiful interfaces with great user experience. I'm a fast learner, a perfectionist, and a team player. I believe in agile development and clean code. 
 
-<p>I'm a fast learner and always up for trying out new technologies. I've got a good balance between being a perfectionist and being practical, which helps me get things done efficiently. I believe in working together as a team, following agile development methods, and writing clean code. I'm never satisfied with the status quo and I'm always looking for ways to improve. And if that means thinking outside the box, I'm all for it!</p>
-
-In my free time, I enjoy family & friends, live music and exploring new places :)
+Outside of work, I enjoy spending time with family and friends 👨‍👩‍👦, listening to live music 🎧, and exploring new places 🏝️.
 
 
 <a href="https://www.linkedin.com/in/dmcshehan" target="_blank">
