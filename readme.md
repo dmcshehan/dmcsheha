@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Shehan (he/him)
 
-I'm a Web Developer based in Dubai, UAE 🇦🇪. I love creating beautiful interfaces with great user experience. I'm a fast learner, a perfectionist, and a team player. I believe in agile development and clean code. 
+I'm a Web Developer based in Viechtach, Germany 🇩🇪 I love creating beautiful interfaces with great user experience. I'm a fast learner, a perfectionist, and a team player. I believe in agile development and clean code. 
 
 Outside of work, I enjoy spending time with family and friends 👨‍👩‍👦, listening to live music 🎧, and exploring new places.
 
